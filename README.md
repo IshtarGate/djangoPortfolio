@@ -28,3 +28,8 @@ It was build using Django.
     - `git clone git://github.com/django/django.git`
     - `pip install -e django/`
         - Where `django/` is the Django repository.
+    - To confirm the that Django is installed.
+        - `python -m django --version`
+- Create a Project
+    - `django-admin startproject mysite`
+    
