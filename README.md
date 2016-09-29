@@ -32,4 +32,7 @@ It was build using Django.
         - `python -m django --version`
 - Create a Project
     - `django-admin startproject mysite`
+- Start the Server
+    - `cd /mysite`
+    - `python manage.py runserver`
     
