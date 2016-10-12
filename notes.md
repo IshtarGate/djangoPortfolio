@@ -7,4 +7,3 @@
     - https://virtualenv.pypa.io/en/stable/userguide/
     - https://virtualenvwrapper.readthedocs.io/en/latest/install.html
     - learn regex
-    
