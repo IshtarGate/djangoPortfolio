@@ -25,4 +25,7 @@ urlpatterns = [
 
     url(r'^polls/', include('polls.urls')),
     url(r'^admin/', admin.site.urls),
+
+    # portfolio subsite
+    url(r'^portfolio/', include('portfolio.urls'))
 ]
